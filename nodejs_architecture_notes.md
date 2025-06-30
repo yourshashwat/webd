@@ -1,13 +1,10 @@
-**Notes from YouTube Video: "How Node.js Works?" by Piyush Garg**
-
----
 
 ### 🚀 Introduction
 
-- Video is part of the "NotJS" series.
 - Explains the **architecture of Node.js**, its **internal working**, and why **non-blocking operations** are important.
 
 ---
+![image](https://github.com/user-attachments/assets/5007187d-9ed9-4d9a-a0cc-44c5f9e06aec)
 
 ### 🔄 Basic Architecture of Node.js
 
@@ -17,6 +14,8 @@
 4. Requests follow **FIFO (First In First Out)** principle.
 
 ---
+![image](https://github.com/user-attachments/assets/cc907567-9943-40ba-8936-5dc90cd18455)
+
 
 ### ⚙️ Role of Event Loop
 

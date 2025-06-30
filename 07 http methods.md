@@ -60,6 +60,9 @@ HTTP methods are used to communicate between a **client (like a browser)** and a
 
 ---
 
+![ChatGPT Image Jul 1, 2025, 01_59_40 AM](https://github.com/user-attachments/assets/d48b47de-1f06-4418-ab78-ab1b1a61ac3e)
+
+
 ## 🔍 Comparison Table
 
 | Method  | Action           | Data Sent In | Idempotent | Safe | Typical Use Case              |

@@ -1,28 +1,5 @@
 # Node.js Tutorial - POST, PATCH, DELETE Requests with Express
 
-## Video Overview
-**Tutorial Link:** https://www.youtube.com/watch?v=7OzNVIxPLH0&list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo&index=14
-
-This tutorial covers implementing POST, PATCH, and DELETE HTTP methods in a Node.js Express application, focusing on completing a basic REST API project.
-
-## 🎯 Learning Objectives
-- Understand how to implement POST requests for creating new resources
-- Learn about middleware and its role in request processing
-- Practice API testing using Postman
-- Implement file operations for data persistence
-- Handle form data and JSON payloads
-
-## 📋 Prerequisites
-- Basic understanding of Node.js and Express
-- Familiarity with GET requests
-- Knowledge of JavaScript objects and arrays
-
-## 🔧 Tools Required
-- **Postman**: API testing and development tool
-  - Download from: https://postman.com
-  - Free tool for testing APIs
-  - Helps with documentation and performance monitoring
-
 ## 📚 Core Concepts
 
 ### 1. API Testing with Postman

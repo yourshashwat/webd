@@ -7,6 +7,8 @@ This markdown file summarizes key concepts from the Node.js video tutorial on HT
 
 ## 🔢 Categories of HTTP Status Codes
 
+![image](https://github.com/user-attachments/assets/eadb62bf-ac75-49ec-bdbd-704acfaed0e2)
+
 HTTP status codes are 3-digit numbers categorized by their first digit:
 
 | Category | Range     | Description                       |
